@@ -1,0 +1,34 @@
+[
+    {
+        "id": "r1",
+        "name": "China Town",
+        "address": "Street no 5",
+        "cuisine": "Chinese",
+        "website": "https://chinatown.com.in",
+        "description": "it's just nyc having brunch there................"
+    },
+    {
+        "id": "r2",
+        "name": "just eatt",
+        "address": "street no 4 ",
+        "cuisine": "south indian",
+        "website": "https://justeatt.com",
+        "description": "great ambience"
+    },
+    {
+        "name": "munich resto",
+        "address": "Street no 6",
+        "cuisine": "German",
+        "website": "https://munivh.de",
+        "description": "best in munich",
+        "id": "ed756a34-6f29-4a89-8aa3-6030f29ec0b5"
+    },
+    {
+        "name": "Sagar ratna",
+        "address": "street no 18",
+        "cuisine": "Indian",
+        "website": "https://ratnasagar.in",
+        "description": "quality of food is great........",
+        "id": "9a3f1e06-18d9-4e09-89d1-2af5e1e011ea"
+    }
+]
