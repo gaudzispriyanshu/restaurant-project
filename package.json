@@ -4,9 +4,7 @@
     "description": "",
     "main": "app.js",
     "scripts": {
-        "start": "nodemon app.js",
-        "predeploy": "npm run build",
-        "deploy": "gh-pages-d build"
+        "start": "nodemon app.js"
     },
     "keywords": [],
     "author": "Priyanshu Thakur",
@@ -14,11 +12,9 @@
     "dependencies": {
         "ejs": "^3.1.8",
         "express": "^4.18.2",
-        "gh-pages": "^5.0.0",
         "uuid": "^9.0.0"
     },
     "devDependencies": {
         "nodemon": "^2.0.20"
-    },
-    "homepage": "https://gaudzispriyanshu.github.io/restaurant-project"
+    }
 }
